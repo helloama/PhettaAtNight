@@ -99,7 +99,7 @@
   { "assettype":"image", "name":"nightskybox_right", "src":"assets/skybox/Night/Nightright.jpg", "hasalpha": false, "preload": false },
   { "assettype":"image", "name":"nightskybox_up", "src":"assets/skybox/Night/Nighttop.jpg", "hasalpha": false, "preload": false },
 
-  { "assettype":"model", "name":"avatar", "src":"assets/tvhead.obj"},
+  { "assettype":"model", "name":"avatar", "src":"assets/avatar.obj", "tex0": "avatar_tex0" },
   { "assettype":"model", "name":"avatar_head", "src":"assets/avatar_head.obj", "tex0": "avatar_head_tex0" },
   { "assettype":"model", "name":"avatar_gltf", "src":"assets/janus-avatar-base.glb" },
   { "assettype":"model", "name":"avatar_animations", "src":"assets/janus-avatar-animations.glb" },
@@ -107,7 +107,7 @@
   { "assettype":"image", "name":"avatar_tex0", "src":"assets/avatar.png", "preload": false },
   { "assettype":"image", "name":"avatar_head_tex0", "src":"assets/avatar_head.png", "preload": false },
 
-  { "assettype":"model", "name":"avatar_janusweb", "src":"assets/tvhead.obj" },
+  { "assettype":"model", "name":"avatar_janusweb", "src":"assets/hoverscreen.obj" },
 
   { "assettype":"model", "name":"loading", "src":"assets/loading.obj" },
 
