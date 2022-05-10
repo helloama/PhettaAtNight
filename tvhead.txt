@@ -1,7 +1,9 @@
 <FireBoxRoom>
  <Assets>
-  <AssetGhost id="tvhead" src="tvhead.obj" ></AssetGhost>
- </Assets>
+<AssetObject id="head" src="tvhead.obj" mtl="tvhead.mtl" />
+<AssetGhost id="tvhead" src="tvhead.txt" ></AssetGhost>
+</Assets>
+<Ghost id="tvhead" ghost_id="tvhead" scale="3 3 3" lighting="false" head_id="head" head_pos="0 0.2 0"/>
  <Room>
 
  </Room>
