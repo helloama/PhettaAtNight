@@ -1,0 +1,8 @@
+<FireBoxRoom>
+ <Assets>
+  <AssetGhost id="tvhead" src="tvhead.obj" ></AssetGhost>
+ </Assets>
+ <Room>
+
+ </Room>
+</FireBoxRoom>
